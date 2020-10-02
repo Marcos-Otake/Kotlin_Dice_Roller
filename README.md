@@ -1,2 +1,2 @@
-# Kotlin_Dice_Roller
-Aula_02_Oficial
+#  Android Java SQLITE
+Lista de tarefas CRUD basico
