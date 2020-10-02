@@ -1,2 +1,2 @@
-#  Android Java SQLITE
-Lista de tarefas CRUD basico
+# Android/Java 
+Ex- CRUD Long_Click remove mensagem Toast Actions
